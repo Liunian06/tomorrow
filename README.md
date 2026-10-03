@@ -1,4 +1,6 @@
-# Tomorrow
+![Tomorrow封面](media/cover-compressed.jpg)
+
+<h1 align="center">路在何方</h1>
 
 > 帮助大学生看清选择，找到下一步。
 >
@@ -33,9 +35,24 @@ Tomorrow/
 3. 优先给出可验证的低成本行动，而不是确定性过强的结论；
 4. 知识库以目录树为骨架，支持连续阅读，辅助链接服务于主线；
 5. AI Skill只读取用户明确授权的文件和目录；
-6. 知识库和AI Skill免费开源，产品差异化来自真实身份、内容筛选、方法论和持续交付；
+6. 知识库和AI Skill免费提供，但使用范围和再发布条件以本仓库的许可证声明为准；
 7. 用户反馈先记录和分类，再用于知识库、规则和Skill的迭代。
 
 ## 项目状态
 
 项目目前处于知识库和产品基础结构搭建阶段。后续将逐步完善知识树、内容模板、证据规则、个人探索记录格式和AI Skill工作流。
+
+## 许可证
+
+除另有说明外，本仓库中的原创文字、知识库内容、图片、文档及其他创作内容采用[CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)许可协议。
+
+你可以免费复制和分享本仓库中的原创内容，但不得将其用于商业目的，也不得公开分享基于本内容制作的改编、翻译、重混、转换或其他衍生版本。
+
+转载或分享时，必须注明以下信息：
+
+- 项目名称：路在何方（Tomorrow）
+- 作者：Liunian06
+- 许可协议：CC BY-NC-ND 4.0
+- 原始项目地址：[https://github.com/Liunian06/tomorrow](https://github.com/Liunian06/tomorrow)
+
+完整许可条款请参阅[LICENSE](LICENSE)。
