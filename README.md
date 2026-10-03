@@ -2,11 +2,16 @@
 
 <h1 align="center">路在何方</h1>
 
-> 帮助大学生看清选择，找到下一步。
->
-> A Wiki for Finding Your Way Forward
+---
+## 引言
+今年27届秋招地狱难度再创历史新高，这对于任何一个27届毕业生，乃至282930届小登都是一种极致的焦虑与迷茫。煮啵希望通过“路在何方”提供更广泛、更真实的视角，帮助处于迷茫期大学生认识自己、理解社会和不断探索，最终回答“路在何方”的终极问题。
 
-Tomorrow是一套面向处于迷茫期大学生的结构化探索系统，帮助用户理解并比较考研、就业、考公、转行等发展路径，通过低成本行动验证下一步，而不是通过一次测试替用户决定人生。
+[![Version](https://img.shields.io/badge/version-0.0.1-blue)](https://github.com/Liunian06/tomorrow/releases)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-green)](LICENSE)
+
+## 食用姿势
+
+
 
 ## 产品组成
 
